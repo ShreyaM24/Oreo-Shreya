@@ -1,6 +1,9 @@
 img {
     float:left;
     text-align: center;
+    width: 56px;
+    height: 54px
+    
 }
 h3 {
     float:right;
@@ -16,4 +19,3 @@ body{
     background-color: rgb(137, 189, 211);
     font-family: "Trebuchet MS";
   }
- 

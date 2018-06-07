@@ -6,11 +6,11 @@ img {
     
 }
 h3 {
-    float:right;
+    float:center;
     text-align: center;
 }
 h1{
-    text-align: center;
+    text-align: right;
 }
 p{
      vertical-align: sub;

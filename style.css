@@ -1,6 +1,12 @@
-
-  body{
-  background-color: rgb(137, 189, 211);
-  font-family: "Trebuchet MS";
+img {
+    float:left;
 }
+h1 {
+    float:right;
+}
+
+body{
+    background-color: rgb(137, 189, 211);
+    font-family: "Trebuchet MS";
+  }
  

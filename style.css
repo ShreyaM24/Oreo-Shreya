@@ -10,7 +10,8 @@ h3 {
     text-align: center;
 }
 h1{
-    text-align: right;
+    float: right;
+    text-align: center;
 }
 p{
      vertical-align: sub;

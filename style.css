@@ -27,3 +27,8 @@ img{
     padding: 15px;
     margin: 0px 10px 10px 10px;
 }
+#links{
+    bacground-color: #a3a3a3;
+    width: 380px;
+    float: right;
+}

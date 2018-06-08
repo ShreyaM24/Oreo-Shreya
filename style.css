@@ -13,10 +13,12 @@ img{
     background-color:#c9c9c9;
     height: 100px;
     margin: 10px;
+    text-align: center;
 }
 
 #main{
-    background:#a3a3a3 top left;
+    background-color:#a3a3a3;
+    float: left;
     font-size: 105%;
     padding: 15px;
     margin: 0px 10px 10px 10px;

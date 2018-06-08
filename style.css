@@ -21,7 +21,7 @@ img{
 
 #main{
     background-color:#a3a3a3;
-    background: top left;
+    width: 100px;
     float: left;
     font-size: 105%;
     padding: 15px;

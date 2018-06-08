@@ -1,14 +1,21 @@
-img {
-    float: left;
-}
-h2 {
-    float:center;
-    text-align: center;
-    font-family: 'Trebuchet MS', serif;
-}
-p{
-    font-family: 'Trebuchet MS', serif;
-}
+
 body{
     background-color: rgb(82, 185, 229);
+    font-family: "Trebucet MS";
   }
+
+img{
+    width: 110px;
+    height: 90px;
+}
+
+#header{
+    background-color:#c9c9c9;
+    height: 100px;
+}
+
+#main{
+    background-color: #cacaca;
+    height:900px;
+    width: 360px;
+}

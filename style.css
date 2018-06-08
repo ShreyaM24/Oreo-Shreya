@@ -5,7 +5,7 @@ body{
   }
 
 img{
-    width: 180px;
+    width: 80px;
     height: 80px;
     display: block;
     margin-left: auto;
@@ -31,9 +31,12 @@ img{
     bacground-color: #a3a3a3;
     width: 380px;
     float: right;
+    font-size: 105%;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
 }
 a:link, a:visited {
-    background-color: #f44336;
+    background-color: #ccefff;
     color: #ffffff;
     padding: 14px 25px;
     text-align: center;

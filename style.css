@@ -7,15 +7,17 @@ img {
 h3 {
     float:right;
     text-align: center;
+    font-family: 'Amatic SC', cursive;
 }
 h1{
     float: center;
     text-align: center;
+    font-family: 'Amatic SC', cursive;
 }
 p{
      vertical-align: text-bottom;
+    font-family: 'Josefin Sans', sans-serif;
 }
 body{
     background-color: rgb(137, 189, 211);
-    font-family: "Trebuchet MS";
   }

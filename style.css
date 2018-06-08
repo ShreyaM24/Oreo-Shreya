@@ -1,23 +1,14 @@
 img {
-    float: center;
-    width: 46px;
-    height: 44px
-    
+    float: left;
 }
-h3 {
-    float:right;
+h2 {
+    float:center;
     text-align: center;
-    font-family: 'Playfair Display', serif;
-}
-h1{
-    float: center;
-    text-align: center;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Trebuchet MS', serif;
 }
 p{
-     vertical-align: text-bottom;
-    font-family: 'Alice', serif;
+    font-family: 'Trebuchet MS', serif;
 }
 body{
-    background-color: rgb(137, 189, 211);
+    background-color: rgb(82, 185, 229);
   }

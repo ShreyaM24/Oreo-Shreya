@@ -7,16 +7,16 @@ img {
 h3 {
     float:right;
     text-align: center;
-    font-family: "Amatic SC";
+    font-family: 'Playfair Display', serif;
 }
 h1{
     float: center;
     text-align: center;
-    font-family: "Amatic SC";
+    font-family: 'Playfair Display', serif;
 }
 p{
      vertical-align: text-bottom;
-    font-family: "Josefin Sans";
+    font-family: 'Alice', serif;
 }
 body{
     background-color: rgb(137, 189, 211);

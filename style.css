@@ -5,8 +5,8 @@ body{
   }
 
 img.a{
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 180px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -22,7 +22,7 @@ img.b{
 
 #header{
     background-color:#c9c9c9;
-    height: 100px;
+    height: 200px;
     margin: 10px;
 }
 
@@ -43,7 +43,7 @@ img.b{
     margin: 0px 10px 10px 10px;
 }
 a:link, a:visited {
-    background-color: #ccefff;
+    background-color: blue;
     color: #ffffff;
     padding: 14px 25px;
     text-align: center;
@@ -53,5 +53,5 @@ a:link, a:visited {
 
 
 a:hover, a:active {
-    background-color:  #ccefff ;
+    background-color:  blue ;
 }

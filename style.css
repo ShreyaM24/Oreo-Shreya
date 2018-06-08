@@ -5,8 +5,8 @@ body{
   }
 
 img{
-    width: 200px;
-    height: 100px;
+    width: 280px;
+    height: 180px;
 }
 
 #header{
@@ -16,8 +16,7 @@ img{
 }
 
 #main{
-    background-color: #a3a3a3;
-    background: top left;
+    background:#a3a3a3 top left;
     height:900px;
     width: 360px;
     padding: 15px;

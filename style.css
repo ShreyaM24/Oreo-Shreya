@@ -12,10 +12,14 @@ img{
 #header{
     background-color:#c9c9c9;
     height: 100px;
+    margin: 10px;
 }
 
 #main{
-    background-color: #cacaca;
+    background-color: #a3a3a3;
+    background: top left;
     height:900px;
     width: 360px;
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
 }

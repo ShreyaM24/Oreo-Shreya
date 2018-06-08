@@ -5,12 +5,7 @@ body{
   }
 
 img.a{
-    width: 100px;
-    height: 180px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    float: left;
 }
 img.b{
     width: 100px;

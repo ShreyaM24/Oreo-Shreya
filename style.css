@@ -5,8 +5,8 @@ body{
   }
 
 img{
-    width: 480px;
-    height: 380px;
+    width: 180px;
+    height: 80px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -15,13 +15,13 @@ img{
 
 #header{
     background-color:#c9c9c9;
-    height: 400px;
+    height: 100px;
     margin: 10px;
 }
 
 #main{
     background-color:#a3a3a3;
-    width: 100px;
+    width: 380px;
     float: left;
     font-size: 105%;
     padding: 15px;

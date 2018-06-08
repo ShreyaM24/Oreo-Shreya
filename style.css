@@ -4,11 +4,18 @@ body{
     font-family: "Trebuchet MS";
   }
 
-img{
+img.a{
     width: 80px;
     height: 80px;
     display: block;
     margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+img.b{
+    width: 100px;
+    height: 200px;
+     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }

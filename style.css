@@ -7,16 +7,16 @@ img {
 h3 {
     float:right;
     text-align: center;
-    font-family: 'Amatic SC', cursive;
+    font-family: "Amatic SC";
 }
 h1{
     float: center;
     text-align: center;
-    font-family: 'Amatic SC', cursive;
+    font-family: "Amatic SC";
 }
 p{
      vertical-align: text-bottom;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: "Josefin Sans";
 }
 body{
     background-color: rgb(137, 189, 211);

@@ -1,12 +1,12 @@
 
 body{
-    background-color: #91deff;
+    background-color: #ccefff;
     font-family: "Trebucet MS";
   }
 
 img{
-    width: 280px;
-    height: 180px;
+    width: 480px;
+    height: 380px;
 }
 
 #header{
@@ -17,8 +17,7 @@ img{
 
 #main{
     background:#a3a3a3 top left;
-    height:900px;
-    width: 360px;
+    font-size: 105%;
     padding: 15px;
     margin: 0px 10px 10px 10px;
 }

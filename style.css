@@ -10,8 +10,8 @@ img.logo{
     width: 300px;
 }
 img.pack{
-    width: 100px;
-    height: 200px;
+    width: 100%;
+    height: auto;
 }
 .middle{
      background-color:#c9c9c9;

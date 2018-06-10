@@ -55,6 +55,14 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
 }
+a:click {
+    background-color: blue;
+    color: #ffffff;
+    padding: 1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
 .column {
     float: left;
     width:  30%; /* 33.33%; */

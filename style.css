@@ -39,6 +39,11 @@ img.pack{
     padding: 15px;
     margin: 0px 10px 10px 10px;
 }
+#footer{
+    background-color:#c9c9c9;
+    height: 50px;
+    margin: 10px;
+}
 a:link, a:visited {
     background-color: blue;
     color: #ffffff;

@@ -58,7 +58,7 @@ a:link, a:visited {
 .column {
     float: left;
     width:  30%; /* 33.33%; */
-    padding: 10px;
+    padding: 15px;
    /* height: 300px; Should be removed. Only for demonstration */
 }
 

@@ -16,14 +16,20 @@ img.pack{
     margin-right: auto;
     width: 50%;
 }
+.middle{
+     background-color:#c9c9c9;
+    height: 200px;
+    margin: 10px;
+}
+    
 
-#header{
+.header{
     background-color:#c9c9c9;
     height: 200px;
     margin: 10px;
 }
 
-#main{
+.main{
     background-color:#a3a3a3;
     width: 380px;
     float: left;
@@ -31,7 +37,7 @@ img.pack{
     padding: 15px;
     margin: 0px 10px 10px 10px;
 }
-#links{
+.links{
     bacground-color: #a3a3a3;
     width: 380px;
     float: right;

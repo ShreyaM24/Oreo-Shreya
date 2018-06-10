@@ -4,12 +4,12 @@ body{
     font-family: "Trebuchet MS";
   }
 
-img.a{
+img.logo{
     float: right;
     height: 200px;
     width: 300px;
 }
-img.b{
+img.pack{
     width: 100px;
     height: 200px;
      margin-left: auto;

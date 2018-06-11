@@ -34,7 +34,7 @@ a:link, a:visited {
     display: inline-block;
 }
 .column {
-    color: #b8b8b8;
+    background-color: #b8b8b8;
     float: left;
     width:  30%;
     padding: 15px;

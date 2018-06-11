@@ -37,6 +37,7 @@ a:link, a:visited {
     background-color: #b8b8b8;
     float: left;
     width:  30%;
+    height: 800px;
     padding: 15px;
 }
 
@@ -50,8 +51,8 @@ pre{
     font-family: "Trebuchet MS"
 }
 .hist{
-    width: 200px;
-    height: auto;
+    width: 30%;
+    height: 800px;
     border: dashed;
     float: left;
 }

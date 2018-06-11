@@ -13,12 +13,6 @@ img.pack{
     width: 100%;
     height: auto;
 }
-.middle{
-     background-color:#c9c9c9;
-    height: 200px;
-    margin: 10px;
-}
-    
 
 .header{
     background-color:#c9c9c9;
@@ -26,22 +20,6 @@ img.pack{
     margin: 10px;
 }
 
-.main{
-    background-color:#a3a3a3;
-    width: 380px;
-    float: left;
-    font-size: 105%;
-    padding: 15px;
-    margin: 0px 10px 10px 10px;
-}
-.links{
-    bacground-color: #a3a3a3;
-    width: 380px;
-    float: right;
-    font-size: 105%;
-    padding: 15px;
-    margin: 0px 10px 10px 10px;
-}
 #footer{
     background-color:#c9c9c9;
     height: 50px;

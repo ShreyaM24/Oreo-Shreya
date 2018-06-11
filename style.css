@@ -6,7 +6,7 @@ body{
 
 img.logo{
     float: right;
-    height: 200px;
+    height: auto;
     width: 300px;
 }
 img.pack{
@@ -35,9 +35,8 @@ a:link, a:visited {
 }
 .column {
     float: left;
-    width:  30%; /* 33.33%; */
+    width:  30%;
     padding: 15px;
-   /* height: 300px; Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -46,3 +45,7 @@ a:link, a:visited {
     display: table;
     clear: both;
 }
+pre{
+    font-family: "Trebuchet MS"
+}
+    

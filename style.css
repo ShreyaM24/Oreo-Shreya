@@ -39,6 +39,8 @@ a:link, a:visited {
     width:  30%;
     height: 800px;
     padding: 15px;
+    border: dashed;
+    border-comer: #ccefff;
 }
 
 /* Clear floats after the columns */

@@ -34,6 +34,7 @@ a:link, a:visited {
     display: inline-block;
 }
 .column {
+    color: #b8b8b8;
     float: left;
     width:  30%;
     padding: 15px;
@@ -48,4 +49,9 @@ a:link, a:visited {
 pre{
     font-family: "Trebuchet MS"
 }
-    
+.beg{
+    width: 200px;
+    height: auto;
+    border: dashed;
+    float: left;
+}

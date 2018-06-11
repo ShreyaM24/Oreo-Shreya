@@ -40,7 +40,7 @@ a:link, a:visited {
     height: 800px;
     padding: 15px;
     border: dashed;
-    border-comer: #ccefff;
+    border-color: #ccefff;
 }
 
 /* Clear floats after the columns */

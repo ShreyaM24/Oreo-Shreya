@@ -38,7 +38,8 @@ a:link, a:visited {
 }
 /* keeps the text in footer to be spaced out */
 pre{
-    font-family: "Trebuchet MS"
+    font-family: "Trebuchet MS";
+    text-align:center;
 }
 
 

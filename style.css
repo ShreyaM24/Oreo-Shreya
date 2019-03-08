@@ -25,7 +25,7 @@ a:link, a:visited {
     background-color: #52b9e5;
     color: #ffffff;
     padding: 14px 25px;
-    text-size: 24px;
+    font-size: 24px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -41,7 +41,7 @@ a:link, a:visited {
 pre{
     font-family: "Trebuchet MS";
     text-align:center;
-    text-size: 24px;
+    font-size: 24px;
 
 }
 
@@ -69,6 +69,7 @@ img.pack{
     display: table;
     clear: both;
     margin: 10px;
+    background-color:#ffffff;
 }
 
 
